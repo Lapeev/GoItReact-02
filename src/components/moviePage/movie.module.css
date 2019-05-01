@@ -1,0 +1,13 @@
+.container {
+  max-width: 1200px;
+  min-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 70px;
+}
+.movieGrid {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -8px;
+  margin-right: -8px;
+}

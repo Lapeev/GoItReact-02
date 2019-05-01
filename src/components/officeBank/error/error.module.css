@@ -1,0 +1,8 @@
+.error {
+  border-radius: 3px;
+  border: 1px solid red;
+  position: absolute;
+  background: #ffffff;
+  top: 30px;
+  left: 0;
+}

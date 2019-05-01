@@ -1,0 +1,29 @@
+.dashboard {
+  margin: 0 auto;
+  margin-top: 50px;
+  width: 400px;
+  padding: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  border-radius: 3px;
+}
+.controls {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+}
+.balance {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.history {
+  margin-top: 20px;
+  border-collapse: collapse;
+  border: 1px solid black;
+  width: 100%;
+}
+.history th, .history td {
+  border: 1px solid black;
+  padding: 5px;
+}
+
